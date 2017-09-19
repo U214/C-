@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HelloWorld.cpp">
+    <ClCompile Include="SimpleAdder.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{F5468A98-37A0-4EDC-85AB-F156F0A63350}</ProjectGuid>
+    <ProjectGuid>{9B57F2AA-EC62-437C-93CC-DC4340C28E68}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Exam01cout</RootNamespace>
+    <RootNamespace>Exam15StandardCFunction</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -147,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HelloWorld.cpp" />
+    <ClCompile Include="StdCPPFunc.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
